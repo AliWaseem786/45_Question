@@ -1,0 +1,1 @@
+console.log(' Albert Einstien "once said a person who never made mistake never tried anything new."')
